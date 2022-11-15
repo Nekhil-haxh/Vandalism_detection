@@ -53,14 +53,14 @@ The model is performing very well and can be deployed it in the real world.
 ## Deployment
 For deploying the impulse to BLE Sense,we created a arduino library with this optimizations.  
 ![deploy.jpg](https://usercdn.edgeimpulse.com/project149095/27cb1abb3cd6d892add9a796e3b6b76e4873cefc863fa7c6880fab2532fe125a)
-Then we add that library to the Arduino IDE. Then we modified the example sketch that is provided. You can find entire code and assets including circuit in this [Github repo](https://github.com/Nekhil-haxh/Vandalism_detection).
+Then we add that library to the Arduino IDE. Then we modified the example sketch that is provided. You can find entire code and assets including circuit in this [Github repo](https://github.com/CodersCafeTech/Vandalism-Detection).
 ## IFTT   
 ![IFTTT.png](https://usercdn.edgeimpulse.com/project149095/7f2cfa0ca11ce3cd73bf217876c8dcb628276a6bc206171ab55984f30bae5347)   
 For triggering the mail we used IFTT service. To setup the mail triggering upon any poitive detections please have a look at this [tutorial](https://www.youtube.com/watch?v=MXqWt7oK4JY).   
 This is the applet created by me.
 ![applet.jpg](https://usercdn.edgeimpulse.com/project149095/8f5b19ede5f445b004ee1d2bf73357bfdd8fd6ffa6960723ca26dbd1fff67994)
 ## Case
-All the components were fitted inside this cute case.
+All the components were fitted inside this case.
 ![IMG_2680.jpg](https://usercdn.edgeimpulse.com/project149095/629f80ac45ebe31aca88807ea5cae6dd4d21587c530d49dbfd01cba2c0ee322b)    
 
 ## Real world Testing     
